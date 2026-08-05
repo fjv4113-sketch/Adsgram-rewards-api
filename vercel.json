@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/adsgram-reward.js": {
+      "maxDuration": 10
+    }
+  }
+}
